@@ -19,3 +19,11 @@ The following endpoint was utilized to play with the data and render it within t
 ```
 https://nba-players.herokuapp.com/players-stats
 ```
+
+### Deployed website
+
+You can website the website by clicking on the URl below
+
+```
+https://5f7bede78331a312ee8218b9--react-bootstrap-table.netlify.app/
+```
