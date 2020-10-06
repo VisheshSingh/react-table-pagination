@@ -22,6 +22,6 @@ https://nba-players.herokuapp.com/players-stats
 
 ### Deployed website
 
-You can website the website by clicking on the URl below
+You can visit the website by clicking on the URL below
 
-[Deployed Site 🚀](5f7bede78331a312ee8218b9--react-bootstrap-table.netlify.app/)
+[Deployed Site 🚀](https://5f7bede78331a312ee8218b9--react-bootstrap-table.netlify.app/5f7bede78331a312ee8218b9--react-bootstrap-table.netlify.app/)
